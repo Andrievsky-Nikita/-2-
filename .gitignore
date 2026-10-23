@@ -1,0 +1,32 @@
+# .NET build output
+**/[Bb]in/
+**/[Oo]bj/
+artifacts/
+
+# Visual Studio cache
+.vs/
+
+# User-specific IDE files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code: ignore workspace files by default,
+# but keep useful shared project configuration
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# VS Code local history
+.history/
