@@ -1,1 +1,1 @@
-internal record Transaction(int Id, decimal Amount, string Currency, DateTime Date, string Category);
+internal record Transaction(int Id, decimal Amount, string Currency, DateTime Date, string Category, string Description);
